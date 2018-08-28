@@ -1,0 +1,7 @@
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\bin\Debug\IntroProgramacaoCSharp.exe.config
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\bin\Debug\IntroProgramacaoCSharp.exe
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\bin\Debug\IntroProgramacaoCSharp.pdb
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\obj\Debug\IntroProgramacaoCSharp.csprojAssemblyReference.cache
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\obj\Debug\IntroProgramacaoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\obj\Debug\IntroProgramacaoCSharp.exe
+C:\Users\Diego Barros\source\repos\IntroProgramacaoCSharp\IntroProgramacaoCSharp\obj\Debug\IntroProgramacaoCSharp.pdb
